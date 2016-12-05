@@ -10,6 +10,29 @@ CTO Night & Dayでは、経歴も経験年数も様々ながら同じ悩みを�
 
 - IVS CTO Night & Dayに参加されているCTOの皆さん
 
+# CTO Night & Day参加者向け情報
+
+## サンプル
+
+https://github.com/cto-night-and-day/patterns-of-cto-things/blob/9c7301d4a74039d3226dc77b998a2e00890ad650/エンジニアの評価/評価の定量化(サンプル).md
+
+## テンプレ
+
+```
+# 論点
+
+# 結論
+
+# 理由
+
+
+# 参考書籍
+- 
+
+# 参加者（省略可）
+- 
+```
+
 # 運営
 
 - Amazon Web Services Japan Startup Team
