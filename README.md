@@ -6,10 +6,13 @@ CTO Night & Dayでは、経歴も経験年数も様々ながら同じ悩みを�
 
 もしあなたがCTO Night & Dayの参加者でなくとも、スタートアップ企業のCTOであり、何かの悩みを持っているのであれば、参考になれば幸いです。
 
+# Contributors
+
+- IVS CTO Night & Dayに参加されているCTOの皆さん
+
 # 運営
 
-Amazon Web Services Japan K.K.
-Startup Team (@akitsukada)
+- Amazon Web Services Japan Startup Team [@akitsukada](https://github.com/akitsukada)
 
 # 免責
 
