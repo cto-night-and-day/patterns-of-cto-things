@@ -12,7 +12,7 @@ CTO Night & Dayでは、経歴も経験年数も様々ながら同じ悩みを�
 
 # 運営
 
-- Amazon Web Services Japan Startup Team [@akitsukada](https://github.com/akitsukada)
+- Amazon Web Services Japan Startup Team
 
 # 免責
 
