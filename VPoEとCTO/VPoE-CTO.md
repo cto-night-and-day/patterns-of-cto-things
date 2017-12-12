@@ -1,0 +1,1 @@
+![VPoEとCTO.jpg](VPoEとCTO.jpg)
